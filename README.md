@@ -23,4 +23,8 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/playonusb2.png)
 
+![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/Eqfa12LMS.png)
+
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/tidal-connect.jpg)
+
+
