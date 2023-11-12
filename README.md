@@ -15,4 +15,4 @@ SSH: user: root, pass: ros, and you can customize it according to your own needs
 Download link:
 https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 
-![Screenshot](LMSrAudio-menu.jpg)
+![Screenshot](LMSrAudio-menu.png)
