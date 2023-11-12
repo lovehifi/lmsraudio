@@ -12,7 +12,7 @@ I did this out of a passion for sound and to enhance user-friendly interaction f
 SSH: user: root, pass: ros, and you can customize it according to your own needs.
 
 
-Download link:
+Download link IMG:
 https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 
 ![Screenshot](LMSrAudio-menu.png)
