@@ -22,8 +22,6 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 
 ![Screenshot](LMSrAudioUI.png)
 
-![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
-
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/App_RuneAudio.jpg)
 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/playonusb2.png)
@@ -40,3 +38,5 @@ Youtube on LCD has been turned on for the first time.
 - Next, in the YouTube app on your phone, select the Cast icon, then 'Link with TV code.
 - Switch the SQ64-rAudio player to off before you play a YouTube video.
 - Once completed, you can choose to cast to the TV (Youtube on LCD).
+
+![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
