@@ -1,4 +1,4 @@
-# LMSrAudio IMG 64-bit for Pi 3 Pi 4
+# LMSrAudio [IMG] 64-bit for Pi 3 Pi 4
 
 
 I have created a build based on LMS, Material Skin, and rAudio (as I understand, it's a different branch of Rune Audio) for my personal needs and those of my friends.
