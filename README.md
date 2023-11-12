@@ -36,7 +36,7 @@ Youtube on LCD has been turned on for the first time.
 - On LCD or TV, tap the settings icon at the bottom.
 - Tap 'Link with TV Code' to display the code.
 - Next, in the YouTube app on your phone, select the Cast icon, then 'Link with TV code.
-- Switch the SQ64-rAudio player to off before you play a YouTube video.
+- Switch the **SQ64-rAudio Player to off** before you play a YouTube video.
 - Once completed, you can choose to cast to the TV (Youtube on LCD).
 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
