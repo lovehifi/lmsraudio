@@ -17,4 +17,4 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 
 ![Screenshot](LMSrAudio-menu.png)
 
-![Screenshot](2023-11-12 13_28_39-Logitech Media Server.png)
+![Screenshot](2023-11-12%2013_28_39-Logitech%20Media%20Server.png)
