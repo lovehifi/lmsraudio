@@ -43,5 +43,5 @@ Youtube on LCD has been turned on for the first time.
 
 --------------------
 
-Video clip recorded by a user using a phone to cast YouTube video to Pi 4 DAC.
+Video clip by a user using a phone to cast YouTube video to Pi 4 DAC.
 https://youtu.be/cwVGm7qOUq8
