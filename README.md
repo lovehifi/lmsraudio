@@ -40,3 +40,7 @@ Youtube on LCD has been turned on for the first time.
 - Once completed, you can choose to cast to the TV (Youtube on LCD).
 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
+
+
+Testing video casting from phone to Pi 4 DAC using LMSrAudio.
+https://youtu.be/cwVGm7qOUq8
