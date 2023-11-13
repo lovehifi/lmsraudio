@@ -41,6 +41,7 @@ Youtube on LCD has been turned on for the first time.
 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
 
+--------------------
 
-Testing video casting from phone to Pi 4 DAC using LMSrAudio.
+Video clip recorded by a user using a phone to cast YouTube video to Pi 4 DAC.
 https://youtu.be/cwVGm7qOUq8
