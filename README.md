@@ -31,6 +31,8 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/tidal-connect.jpg)
 
 
+![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
+
 Note:
 Youtube on LCD has been turned on for the first time.
 - On LCD or TV, tap the settings icon at the bottom.
@@ -38,10 +40,9 @@ Youtube on LCD has been turned on for the first time.
 - Next, in the YouTube app on your phone, select the Cast icon, then 'Link with TV code.
 - Switch the **SQ64-rAudio player to off** before you play a YouTube video.
 - Once completed, you can choose to cast to the TV (Youtube on LCD).
-
-![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
-
-
+>
+------------
+>
 hdmi_group=1 and hdmi_group=2 are two different HDMI mode groups, and they define different standards and configurations for HDMI output. Here is the difference between them:
 
 **HDMI Group 1 (CEA - Consumer Electronics Association):**
