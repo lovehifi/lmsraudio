@@ -9,15 +9,16 @@ What's special about this build is that it can play YouTube videos on the TV scr
 
 I did this out of a passion for sound and to enhance user-friendly interaction for audio enthusiasts.
 
-SSH: user: root, pass: ros, and you can customize it according to your own needs.
-
-
-
-
-
 Download link IMG:
 https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 
+Open the Music Server DAC control web at http://raudio/ or http://raudio.local/ in your browser. If you can't see it, use the Advanced IP Scanner software to find the IP of rAudio. You can then open it using the IP, for example: http://192.180.0.2.
+
+---------------------
+>
+SSH: user: root, pass: ros, and you can customize it according to your own needs.
+>
+---------------
 ![Screenshot](LMSrAudio-menu.png)
 
 ![Screenshot](LMSrAudioUI.png)
