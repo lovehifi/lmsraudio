@@ -88,7 +88,7 @@ hdmi_cvt 1280 720 60 3 0 0 0
 >
 --------------------
 
-Video clip by a user using a phone to cast YouTube video to Pi 4 DAC.
+Video clip by a user using a phone to cast YouTube video to Pi 4 DAC and TV.
 https://youtu.be/cwVGm7qOUq8
 
 
