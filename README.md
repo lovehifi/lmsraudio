@@ -9,7 +9,7 @@ What's special about this build is that it can play YouTube videos on the TV scr
 
 I did this out of a passion for sound and to enhance user-friendly interaction for audio enthusiasts.
 
-Download link IMG:
+Download URL [IMG]:
 https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 
 You can use software like Win32 Disk Imager or BalenaEtcher to flash the LMS rAudio OS images to SD cards.
