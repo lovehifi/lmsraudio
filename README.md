@@ -61,7 +61,7 @@ If you are using a TV, typically you would choose hdmi_group=1. If you are conne
 
 You can make adjustments to the HDMI configuration in the /boot/config.txt file.
 
-Config HDMI port 1:
+Config HDMI port 1 for TV 65":
 >
 hdmi_mode=4
 >
@@ -70,7 +70,19 @@ hdmi_drive=1
 hdmi_group=1
 >
 hdmi_cvt 1440 720 60 3 0 0 0
+>
+>
 
+Config HDMI port 1 for TV 32":
+>
+hdmi_mode=4
+>
+hdmi_drive=1
+>
+hdmi_group=1
+>
+hdmi_cvt 1280 720 60 3 0 0 0
+>
 --------------------
 
 Video clip by a user using a phone to cast YouTube video to Pi 4 DAC.
