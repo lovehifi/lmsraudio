@@ -41,7 +41,28 @@ Youtube on LCD has been turned on for the first time.
 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
 
+
+
+hdmi_group=1 and hdmi_group=2 are two different HDMI mode groups, and they define different standards and configurations for HDMI output. Here is the difference between them:
+
+**HDMI Group 1 (CEA - Consumer Electronics Association):**
+
+- Intended for consumer devices such as TVs, projectors, etc.
+- Supports a variety of resolutions and refresh rates common in the consumer electronics industry.
+
+
+**HDMI Group 2 (DMT - Display Monitor Timings):**
+
+- Intended for computer monitors and computer display devices.
+- Supports resolutions and refresh rates suitable for computer monitors.
+When you use hdmi_group=1, you are selecting configurations that are more common in the consumer electronics industry. On the other hand, hdmi_group=2 is the choice for computer monitors and computer display devices.
+
+If you are using a TV, typically you would choose hdmi_group=1. If you are connecting Raspberry Pi to a computer monitor, then you might choose hdmi_group=2. Depending on the specific device and use case, you can select the group that is more suitable for your needs
+
 --------------------
 
 Video clip by a user using a phone to cast YouTube video to Pi 4 DAC.
 https://youtu.be/cwVGm7qOUq8
+
+
+----------------
