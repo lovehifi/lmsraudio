@@ -62,10 +62,13 @@ If you are using a TV, typically you would choose hdmi_group=1. If you are conne
 You can make adjustments to the HDMI configuration in the /boot/config.txt file.
 
 Config HDMI port 1:
-
+>
 hdmi_mode=4
+>
 hdmi_drive=1
+>
 hdmi_group=2
+>
 hdmi_cvt 1440 720 60 3 0 0 0
 
 --------------------
