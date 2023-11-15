@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 
 You can use software like Win32 Disk Imager or BalenaEtcher to flash the LMS rAudio OS images to SD cards.
 
-Open the Web control Music Server DAC  at http://raudio/ or http://raudio.local/ in your browser. If you can't see it, use the Advanced IP Scanner software to find the IP of rAudio. You can then open it using the IP, for example: http://192.180.0.2.
+Access the Music Server DAC interface by navigating to http://raudio/ or http://raudio.local/ in your browser. In case you cannot locate it, use the Advanced IP Scanner software to discover the IP address of rAudio. Subsequently, access it via the IP address; for instance: http://192.180.0.2.
 
 ---------------------
 >
