@@ -59,6 +59,8 @@ When you use hdmi_group=1, you are selecting configurations that are more common
 
 If you are using a TV, typically you would choose hdmi_group=1. If you are connecting Raspberry Pi to a computer monitor, then you might choose hdmi_group=2. Depending on the specific device and use case, you can select the group that is more suitable for your needs
 
+You can make adjustments to the HDMI configuration in the /boot/config.txt file.
+
 --------------------
 
 Video clip by a user using a phone to cast YouTube video to Pi 4 DAC.
