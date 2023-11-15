@@ -1,7 +1,7 @@
 # LMSrAudio [IMG] 64-bit for Pi 3 & Pi 4
-You have an affinity for LMS, enjoy the Material Skin interface, and are particularly accustomed to using LMS/Material Skin on mobile devices. However, there are times when you reminisce about the allure of the audio experience offered by Archphile or Rune Audio on the Arch Linux platform from many years ago. You can rekindle that experience with the return of rAudio (Arch Linux), I have built: LMS + Squeezelite build-on. 
+You have an affinity for LMS, enjoy the Material Skin interface, and are particularly accustomed to using LMS/Material Skin on mobile devices. However, there are times when you reminisce about the allure of the audio experience offered by Archphile or Rune Audio on the Arch Linux platform from many years ago. You can rekindle that experience with the return of rAudio (Arch Linux).
 
-I have created a build based on [LMS](https://forums.slimdevices.com/forum/user-forums/logitech-media-server), [Material Skin](https://github.com/CDrummond/lms-material), and [rAudio](https://github.com/rern/rAudio) (as I understand, it's a different branch of Rune Audio) for my personal needs and those of my friends.
+I have created a build based on [LMS](https://forums.slimdevices.com/forum/user-forums/logitech-media-server), [Material Skin](https://github.com/CDrummond/lms-material), and [rAudio](https://github.com/rern/rAudio) and Squeezelite build-on.  (as I understand, it's a different branch of Rune Audio) for my personal needs and those of my friends.
 
 I've added some features to make it user-friendly for regular users.
 
