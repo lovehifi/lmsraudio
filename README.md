@@ -67,7 +67,7 @@ hdmi_mode=4
 >
 hdmi_drive=1
 >
-hdmi_group=2
+hdmi_group=1
 >
 hdmi_cvt 1440 720 60 3 0 0 0
 
