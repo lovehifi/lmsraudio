@@ -27,26 +27,26 @@ SSH: user: root, pass: ros, and you can customize it according to your own needs
 >
 ------------
 >
-#### App Control
+### App Control
 Use the app Rune Audio, rAudio or you can use the app for Android: Fully Kiosk Browser & Lockdown, and the app for iOS: Kiosker: Fullscreen Web Kiosk.
 >
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/App_RuneAudio.jpg)
 >
 ----------------
-#### Play from USB Disk
+### Play from USB Disk
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/playonusb2.png)
 >
 --------
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/Eqfa12LMS.png)
 --------
-#### Play with Tidal Connect
+### Play with Tidal Connect
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/tidal-connect.jpg)
 >
 ------------
 >
-#### Play Youtube Video
+### Play Youtube Video
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
 
@@ -65,7 +65,7 @@ https://youtu.be/cwVGm7qOUq8
 
 ------------
 >
-#### HDMI Config
+### HDMI Config
 hdmi_group=1 and hdmi_group=2 are two different HDMI mode groups, and they define different standards and configurations for HDMI output. Here is the difference between them:
 
 **HDMI Group 1 (CEA - Consumer Electronics Association):**
@@ -101,7 +101,7 @@ Config HDMI port 1 for 65 inch (HDMI port 1):
 --------------------
 
 >
-## Why rAudio-LMS ?
+### Why rAudio-LMS ?
 >
 https://github.com/lovehifi/raudiolms-32bit/wiki/Why-rAudio%E2%80%90LMS%3F
 >
