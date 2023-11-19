@@ -16,7 +16,7 @@ You can use software like Win32 Disk Imager or BalenaEtcher to flash the LMS rAu
 
 Access the Music Server DAC interface by navigating to http://raudio/ or http://raudio.local/ in your browser. In case you cannot locate it, use the Advanced IP Scanner software to discover the IP address of rAudio. Subsequently, access it via the IP address; for instance: http://192.180.0.2.
 
-You can click on the Configuration menu, and scroll down to the bottom of the page to update to the latest version.
+In the Material Skin interface, click on the Configuration menu, scroll down to the bottom of the page to update to the LMSrAudio latest version.
 >
 ---------------------
 >
