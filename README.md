@@ -86,7 +86,7 @@ If you are using a TV, typically you would choose hdmi_group=1. If you are conne
 You can make adjustments to the HDMI configuration in the /boot/config.txt file.
 
 >
-Config HDMI port 1 for 65 inch":
+Config HDMI port 1 for 65 inch (HDMI port 1):
 >
 > hdmi_drive=2
 >
