@@ -26,6 +26,9 @@ SSH: user: root, pass: ros, and you can customize it according to your own needs
 ![Screenshot](LMSrAudioUI.png)
 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/App_RuneAudio.jpg)
+>
+Or you can use the app for Android: Fully Kiosk Browser & Lockdown, and the app for iOS: Kiosker: Fullscreen Web Kiosk.
+>
 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/playonusb2.png)
 
