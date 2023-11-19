@@ -59,7 +59,7 @@ Youtube on LCD has been turned on for the first time.
 - Once completed, you can choose to cast to the TV (Youtube on LCD).
 >
 
-Video clip by a user using a phone to cast YouTube video from their phone to the Pi 4, displaying the video on the TV via HDMI and the audio to the Pi 4 DAC.
+Video clip by a user using a phone to **cast YouTube video** from their phone to the Pi 4, displaying the video on the TV via HDMI and the audio to the Pi 4 DAC.
 https://youtu.be/cwVGm7qOUq8
 
 
