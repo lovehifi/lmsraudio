@@ -82,21 +82,21 @@ When you use hdmi_group=1, you are selecting configurations that are more common
 
 If you are using a TV, typically you would choose hdmi_group=1. If you are connecting Raspberry Pi to a computer monitor, then you might choose hdmi_group=2. Depending on the specific device and use case, you can select the group that is more suitable for your needs
 >
----------
+>
 You can make adjustments to the HDMI configuration in the /boot/config.txt file.
 
-
+>
 Config HDMI port 1 for 65 inch":
 >
-hdmi_drive=2
+> hdmi_drive=2
 >
-hdmi_force_hotplug=1
+> hdmi_force_hotplug=1
 >
-hdmi_force_mode=1
+> hdmi_force_mode=1
 >
-hdmi_group=1
+> hdmi_group=1
 >
-hdmi_mode=4
+> hdmi_mode=4
 >
 --------------------
 
