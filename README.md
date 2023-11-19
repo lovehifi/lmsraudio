@@ -30,7 +30,6 @@ SSH: user: root, pass: ros, and you can customize it according to your own needs
 #### App Control
 Use the app Rune Audio, rAudio or you can use the app for Android: Fully Kiosk Browser & Lockdown, and the app for iOS: Kiosker: Fullscreen Web Kiosk.
 >
----------
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/App_RuneAudio.jpg)
 >
