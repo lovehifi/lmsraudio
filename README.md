@@ -31,13 +31,20 @@ Use the app Rune Audio, rAudio or you can use the app for Android: Fully Kiosk B
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/App_RuneAudio.jpg)
 >
 ----------------
+#### Play from USB Disk
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/playonusb2.png)
-
+>
+--------
+>
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/Eqfa12LMS.png)
-
+--------
+#### Play with Tidal Connect
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/tidal-connect.jpg)
-
-
+>
+------------
+>
+#### Play Youtube Video
+>
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/play-ytube.png)
 
 Note:
