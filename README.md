@@ -9,14 +9,14 @@ What's special about this build is that it can play YouTube videos on the TV scr
 
 I did this out of a passion for sound and to enhance user-friendly interaction for audio enthusiasts.
 
-Download URL [LMSrAudio.IMG]:
-https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
-
 You can use software like Win32 Disk Imager or BalenaEtcher to flash the LMS rAudio OS images to SD cards.
 
 Access the Music Server DAC interface by navigating to http://raudio/ or http://raudio.local/ in your browser. In case you cannot locate it, use the Advanced IP Scanner software to discover the IP address of rAudio. Subsequently, access it via the IP address; for instance: http://192.180.0.2.
 
 In the Material Skin interface, click on the Configuration menu, scroll down to the bottom of the page to update to the LMSrAudio latest version.
+>
+Download URL here [LMSrAudio.IMG]:
+https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
 ---------------------
 >
