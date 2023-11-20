@@ -15,7 +15,7 @@ Access the Music Server DAC interface by navigating to http://raudio/ or http://
 
 In the Material Skin interface, click on the Configuration menu, scroll down to the bottom of the page to update to the LMSrAudio latest version.
 >
-Download URL here [LMSrAudio IMG file]:
+Download here [LMSrAudio IMG file URL]:
 https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
 ---------------------
