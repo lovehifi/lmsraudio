@@ -20,7 +20,8 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
 ---------------------
 >
-SSH: user: root, pass: ros, and you can customize it according to your own needs.
+SSH credentials: user 'root,' password 'ros.' You can customize these credentials and have full permissions to modify the source code according to your specific requirements.
+
 >
 ---------------
 ![Screenshot](LMSrAudio-menu.png)
