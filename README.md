@@ -56,8 +56,7 @@ The Parametric EQ 12-band is a powerful tool for adjusting and optimizing audio 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/Eqfa12LMS.png)
 >
 
-User Note: You need to select the "Eqfa12p" output from the Config menu for Squeezelite to use it. You can quickly switch between Squeezelite outputs to compare the sound changes.
-
+User Note: You need to select the "Eqfa12p" output from the Config menu for Squeezelite to use. You can switch between Squeezelite outputs to compare sound changes instantly without restarting the Pi.
 >
 --------
 ### Play with Tidal Connect
