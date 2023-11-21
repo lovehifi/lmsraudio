@@ -41,6 +41,12 @@ Use the app Rune Audio, rAudio or you can use the app for Android: Fully Kiosk B
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/playonusb2.png)
 >
 --------
+### Play with BubbleUPnP Server
+>
+After logging into the BubbleUPnP Server from the Config menu, you'll receive a success message: "Config updated successfully!" Proceed to the LMSBubv9 Server menu. Opt for the Server, select the Folder view option, pick the music album you wish to listen to and click "Add Album" to play it in your LMS.
+>
+![Screenshot](LMSBubV9.jpg)
+>
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/Eqfa12LMS.png)
 --------
