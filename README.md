@@ -18,11 +18,16 @@ In the Material Skin interface, click on the Configuration menu, scroll down to 
 Download [LMSrAudio IMG file URL here]:
 https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
+>
+For the first run, sometimes with certain routers, you might encounter an empty Config menu. If you come across this situation, please restart your router, then restart the Pi once again. This will assist LMSrAudio in generating the menu based on your Pi's IP on the first attempt.
+>
 ---------------------
 >
 SSH credentials: user 'root,' password 'ros.' You can customize these credentials and have full permissions to modify the source code according to your specific requirements.
 
 >
+
+
 ---------------
 ![Screenshot](LMSrAudio-menu.png)
 
