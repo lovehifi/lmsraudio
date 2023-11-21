@@ -121,9 +121,13 @@ Config HDMI port 1 for 65 inch (HDMI port 1):
 ### How to change the root password in LMSrAudio?
 >
 Open Putty (Windows) or Terminal (MAC OS). Login to SSH as root with the password "ros".
+>
 > ssh root@raudio
+>
 > ssh root@raudio.local
+>
 > ssh root@your_pi_ip
+>
 (replace "your_pi_ip" with the actual IP address of your Raspberry Pi).
 
 > sudo passwd
