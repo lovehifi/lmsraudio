@@ -49,7 +49,9 @@ After logging into the BubbleUPnP Server from the Config menu, you'll receive a 
 >
 ----------
 >
+### Parametric EQ (12 band)
 
+>
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/Eqfa12LMS.png)
 >
 --------
