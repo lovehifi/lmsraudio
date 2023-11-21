@@ -129,8 +129,9 @@ Open Putty (Windows) or Terminal (MAC OS). Login to SSH as root with the passwor
 > ssh root@your_pi_ip
 >
 (replace "your_pi_ip" with the actual IP address of your Raspberry Pi).
-
+>
 > sudo passwd
+>
 Enter the new password and press Enter.
 >
 -------------
