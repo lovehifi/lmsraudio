@@ -147,12 +147,12 @@ Enter the new password and press Enter.
 >
 -------------
 >
-### How to modify the Configuration menu?
+### How to modify the menu?
 >
 You can use software like WinSCP or FileZilla with the credentials user: root, pass: ros to open the file /srv/http/config/unit/startup.sh.
 >
-Replace WEB="raudio" with WEB="your pi IP" (sample 192.168.1.55). This modification will directly link to your Pi IP instead of using "raudio" for the menu links.
->>
+In the file, find the line WEB="raudio" and replace it with WEB="your_pi_IP" (for example, 192.168.1.55). This modification will directly link to your Pi's IP instead of using "raudio" for the menu links.
+>
 ------------------
 ### Why rAudio-LMS ?
 >
