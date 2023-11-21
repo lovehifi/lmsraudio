@@ -19,7 +19,7 @@ Download [LMSrAudio IMG file URL here]:
 https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
 >
-For the first run, sometimes with certain routers, you might encounter an empty Config menu. If you come across this situation, please restart your router, then restart the Pi once again. This will assist LMSrAudio in generating the menu based on your Pi's IP on the first attempt.
+For the first run, sometimes with certain routers, you might encounter an empty Configuration menu. If you come across this situation, please restart your router, then restart the Pi once again. This will assist LMSrAudio in generating the menu based on your Pi's IP on the first attempt.
 >
 ---------------------
 >
