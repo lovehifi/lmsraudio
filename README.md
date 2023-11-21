@@ -27,6 +27,7 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 SSH credentials: user 'root,' password 'ros.' You can customize these credentials and have full permissions to modify the source code according to your specific requirements.
 
 >
+>
 
 
 ---------------
@@ -146,6 +147,13 @@ Enter the new password and press Enter.
 >
 -------------
 >
+### How to modify the Configuration menu?
+>
+You can use software like WinSCP or FileZilla with the credentials user: root, pass: ros to open the file /srv/http/config/unit/startup.sh.
+>
+Replace WEB="raudio" with WEB="your pi IP" (sample 192.168.1.55). This modification will directly link to your Pi IP instead of using "raudio" for the menu links.
+>>
+------------------
 ### Why rAudio-LMS ?
 >
 https://github.com/lovehifi/raudiolms-32bit/wiki/Why-rAudio%E2%80%90LMS%3F
