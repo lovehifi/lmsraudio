@@ -47,8 +47,11 @@ After logging into the BubbleUPnP Server from the Config menu, you'll receive a 
 >
 ![Screenshot](LMSBubV9.jpg)
 >
+----------
 >
+
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/Eqfa12LMS.png)
+>
 --------
 ### Play with Tidal Connect
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/tidal-connect.jpg)
