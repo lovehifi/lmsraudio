@@ -124,7 +124,11 @@ Open Putty (Windows) or Terminal (MAC OS). Login to SSH as root with the passwor
 >
 > ssh root@raudio
 >
+or
+>
 > ssh root@raudio.local
+>
+or
 >
 > ssh root@your_pi_ip
 >
