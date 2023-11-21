@@ -14,12 +14,13 @@ You can use software like Win32 Disk Imager or BalenaEtcher to flash the LMS rAu
 Access the Music Server DAC interface by navigating to http://raudio/ or http://raudio.local/ in your browser. In case you cannot locate it, use the Advanced IP Scanner software to discover the IP address of rAudio. Subsequently, access it via the IP address; for instance: http://192.180.0.2.
 
 In the Material Skin interface, click on the Configuration menu, scroll down to the bottom of the page to update to the LMSrAudio latest version.
->
-Download [LMSrAudio IMG file URL here]:
-https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
->
+
 >
 For the first run, sometimes with certain routers, you might encounter an empty Configuration menu. If you come across this situation, please restart your router, then restart the Pi once again. This will assist LMSrAudio in generating the menu based on your Pi's IP on the first attempt.
+>
+>
+**Download** [LMSrAudio IMG file URL here]:
+https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
 ---------------------
 >
