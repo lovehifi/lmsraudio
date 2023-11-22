@@ -71,6 +71,14 @@ User Note: You need to select the "Eqfa12p" output from the Config menu for Sque
 ### Play with Tidal Connect
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/tidal-connect.jpg)
 >
+
+**If you encounter a situation where Tidal Connect is connected but there is no sound**
+>
+The issue you might encounter when connecting to Tidal Connect is related to the DNS configuration. I am setting up Google DNS in the file '/root/tidal-connect/.env'.
+To do this, use the command 'nano /root/tidal-connect/.env' in PuTTY. Replace the string '8.8.8.8 8.8.4.4' with the IP address of your router.
+>
+
+
 ------------
 >
 ### Play Youtube Video
