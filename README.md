@@ -16,7 +16,7 @@ Access the Music Server DAC interface by navigating to http://raudio/ or http://
 In the Material Skin interface, click on the Configuration menu, scroll down to the bottom of the page to update to the LMSrAudio latest version.
 
 >
-For the first run, sometimes with certain routers, you might encounter an empty Configuration menu. If you come across this situation, please restart your router, then restart the Pi once again. This will assist LMSrAudio in generating the menu based on your Pi's IP on the first attempt or you can directly access http://IP address/config; for instance: http://192.180.0.2/config.
+For the first run, sometimes with certain routers, you might encounter an empty Configuration menu. Access the Configuration menu at http://192.168.x.x/config. Update to version 4.9.28 to resolve the menu link issues.
 
 
 >
