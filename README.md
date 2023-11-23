@@ -96,8 +96,9 @@ Youtube on LCD has been turned on for the first time.
 
 Video clip by a user using a phone to **cast YouTube video** from their phone to the Pi 4, displaying the video on the TV via HDMI and the audio to the Pi 4 DAC.
 https://youtu.be/cwVGm7qOUq8
-
-
+>
+You are not using Youtube Video or displaying the screen, turn off the LCD (browser), this will save a lot of CPU processing.
+>
 ------------
 >
 ### HDMI Config
