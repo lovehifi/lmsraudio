@@ -74,8 +74,13 @@ User Note: You need to select the "Eqfa12p" output from the Config menu for Sque
 
 **If you encounter a situation where Tidal Connect is connected but there is no sound**
 >
-The issue you might encounter when connecting to Tidal Connect is related to the DNS configuration. I am setting up Google DNS in the file '/root/tidal-connect/.env'.
-To do this, use the command 'nano /root/tidal-connect/.env' in PuTTY. Replace the string '8.8.8.8 8.8.4.4' with the IP address of your router.
+If you experience issues connecting to Tidal Connect, it may be related to DNS configuration. To resolve this, update to the latest version and modify the DNS settings for Tidal Connect. Replace the string '8.8.8.8 8.8.4.4' with the IP address of your router in the Configuration menu.
+
+
+
+
+
+
 >
 
 
