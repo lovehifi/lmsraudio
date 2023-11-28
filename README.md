@@ -60,7 +60,7 @@ After logging into the BubbleUPnP Server from the Config menu. Access to the LMS
 >
 ### Parametric EQ (12 band)
 >
-The Parametric EQ 12-band is a powerful tool for adjusting and optimizing audio with precise control over different frequency ranges. Ideal for fine-tuning your sound experience, it allows users to customize specific aspects of the audio output with simplicity and accuracy.
+The (Parametric EQ 12-band)[https://github.com/lovehifi/eqfa12] is a powerful tool for adjusting and optimizing audio with precise control over different frequency ranges. Ideal for fine-tuning your sound experience, it allows users to customize specific aspects of the audio output with simplicity and accuracy.
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/Eqfa12LMS.png)
 >
