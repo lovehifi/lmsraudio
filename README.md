@@ -34,6 +34,17 @@ SSH credentials: user 'root,' password 'ros.' You can customize these credential
 
 ---------------
 ![Screenshot](LMSrAudio-menu.png)
+>
+
+
+Configuration menu:
+- Choose between I2S DAC or USB DAC.
+- Select music playback from LMS or Roon Server.
+- Choose output for Squeezelite.
+- Log in to your BubbleUPnP Server.
+- Opt for displaying either YouTube Video or LMS UI on the LCD/TV, especially searching and controlling via the YouTube app on your mobile device. 
+- Switch display between 2 HDMI screens.
+>
 
 ![Screenshot](LMSrAudioUI.png)
 >
