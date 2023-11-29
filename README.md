@@ -35,7 +35,14 @@ SSH credentials: user 'root,' password 'ros.' You can customize these credential
 ---------------
 ![Screenshot](LMSrAudio-menu.png)
 >
-
+- LMSBubv9 Server: Play music from your BubbleUPnP Server (NAS...).
+- Parametric EQfa12: Adjust EQ parameters for your headphones or audio system.
+- Configuration DAC, output...
+- Mount USB-NTFS: Automatically fix and mount NTFS-formatted hard drives that rAudio doesn't recognize.
+- Scan Library: Set up your music library with LMS.
+- rAudio: Open the rAudio interface, where you can configure Wi-Fi, LAN, add NAS, and more.
+>
+----------------
 
 ![Screenshot](LMSrAudioUI.png)
 >
