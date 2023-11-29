@@ -37,6 +37,8 @@ SSH credentials: user 'root,' password 'ros.' You can customize these credential
 >
 
 
+![Screenshot](LMSrAudioUI.png)
+>
 Configuration menu:
 - Choose between I2S DAC or USB DAC.
 - Select music playback from LMS or Roon Server.
@@ -46,8 +48,6 @@ Configuration menu:
 - Switch display between 2 HDMI screens.
 >
 
-![Screenshot](LMSrAudioUI.png)
->
 ------------
 >
 ### App Control
