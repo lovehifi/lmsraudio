@@ -58,7 +58,7 @@ Configuration menu:
 ------------
 >
 ### App Control
-Use the app Rune Audio, rAudio or you can use the app for Android: [Fully Kiosk Browser & Lockdown](https://play.google.com/store/apps/details?id=de.ozerov.fully&hl=en), and the app for iOS: [Kiosker: Fullscreen Web Kiosk](https://apps.apple.com/us/app/kiosker-fullscreen-web-kiosk/id1481691530).
+Use the app Rune Audio, [rAudio](https://play.google.com/store/apps/details?id=com.raudio&hl=en&gl=US) or you can use the app for Android: [Fully Kiosk Browser & Lockdown](https://play.google.com/store/apps/details?id=de.ozerov.fully&hl=en), and the app for iOS: [Kiosker: Fullscreen Web Kiosk](https://apps.apple.com/us/app/kiosker-fullscreen-web-kiosk/id1481691530).
 >
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/addraudio/main/App_RuneAudio.jpg)
