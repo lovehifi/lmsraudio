@@ -187,7 +187,7 @@ Enter the new password and press Enter.
 >
 
 -----------------
-## USB Wifi for rAudio
+## USB Wifi rAudio-compatible
 >
 Comfast CF-951AX (mt7921au chipset).
 >
