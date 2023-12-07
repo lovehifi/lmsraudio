@@ -185,6 +185,14 @@ Enter the new password and press Enter.
 >
 ![Screenshot](static_ip.png)
 >
+
+-----------------
+## USB Wifi for rAudio
+>
+Comfast CF-951AX (mt7921au chipset)
+>
+![Screenshot](cf_wifi_6.jpg)
+>
 ------------------
 ### Why rAudio-LMS ?
 >
