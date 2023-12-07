@@ -189,10 +189,11 @@ Enter the new password and press Enter.
 -----------------
 ## USB Wifi for rAudio
 >
-Comfast CF-951AX (mt7921au chipset)
+Comfast CF-951AX (mt7921au chipset).
 >
-![Screenshot](cf_wifi_6.jpg)
+TP-Link WN822N V3 (rtl8192eu chipset).
 >
+
 ------------------
 ### Why rAudio-LMS ?
 >
