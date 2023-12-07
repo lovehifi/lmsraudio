@@ -181,7 +181,10 @@ Enter the new password and press Enter.
 >
 -------------
 >
-
+### Set a Static IP Address
+>
+![Screenshot](static_ip.png)
+>
 ------------------
 ### Why rAudio-LMS ?
 >
