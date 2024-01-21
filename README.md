@@ -195,6 +195,14 @@ TP-Link WN822N V3 (rtl8192eu chipset).
 >
 
 ------------------
+
+-----------------
+## Flash LMSrAudio to Pi 5
+>
+![Screenshot](raspberrypi-pi5.png)
+>
+
+------------------
 ### Why rAudio-LMS ?
 >
 https://github.com/lovehifi/raudiolms-32bit/wiki/Why-rAudio%E2%80%90LMS%3F
