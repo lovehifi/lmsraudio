@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1A4NiBbrvodBdte03iI4rI5WCjTnXa7vF/
 >
 The Lyrion LT (Real-time kernel) version 06/2025 base on Lyrion 9.1 https://lyrion.org/
 >
-Support Pi 5, support Pi 5 get Ultra‐low system latency of just 8–15 µs.
+Support Pi 4 and support Pi 5 get Ultra‐low system latency of just 8–15 µs.
 >
 Flash the IMG file to the SD card.
 >
