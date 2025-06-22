@@ -33,9 +33,12 @@ https://drive.google.com/file/d/1A4NiBbrvodBdte03iI4rI5WCjTnXa7vF/
 >
 The Lyrion LT (Real-time kernel) version 06/2025 base on Lyrion 9.1 https://lyrion.org/
 >
-Support Pi 4 and Pi 5
+Support Pi 4 - Pi 5 (ultra‐low system latency of just 8–15 µs).
+>
 Flash the IMG file to the SD card.
+>
 On your computer, open a browser and go to http://lyriano.local/ to control it.
+>
 On your phone, open a browser and enter the device’s IP address to access the same web interface.
 >
 >
