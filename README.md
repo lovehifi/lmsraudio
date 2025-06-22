@@ -54,6 +54,13 @@ On your phone, open a browser and enter the device’s IP address to access the 
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0009.jpg)
 >
 
+>
+![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0013.jpg)
+>
+>
+>
+![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0015.jpg)
+>
 ---------------------
 >
 SSH credentials: user 'root,' password 'ros.' You can customize these credentials and have full permissions to modify the source code according to your specific requirements.
