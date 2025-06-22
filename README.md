@@ -26,6 +26,7 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
 >
 >
+--------------------
 **Download new version 06/2025** [Lyrion LT (Real-time kernel]:
 https://drive.google.com/file/d/1A4NiBbrvodBdte03iI4rI5WCjTnXa7vF/
 
@@ -37,11 +38,12 @@ Support Pi 4 and Pi 5
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0010.png)
 >
 >
-![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0009.jpg)
->
->
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0011.png)
 >
+>
+![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0009.jpg)
+>
+
 ---------------------
 >
 SSH credentials: user 'root,' password 'ros.' You can customize these credentials and have full permissions to modify the source code according to your specific requirements.
