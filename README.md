@@ -41,6 +41,9 @@ Support Pi 4 and Pi 5
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0011.png)
 >
 >
+![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0012.png)
+>
+>
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0009.jpg)
 >
 
