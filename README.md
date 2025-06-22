@@ -55,11 +55,11 @@ On your phone, open a browser and enter the device’s IP address to access the 
 >
 
 >
-![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0013.jpg)
+![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0013.png)
 >
 >
 >
-![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0015.jpg)
+![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0015.png)
 >
 ---------------------
 >
