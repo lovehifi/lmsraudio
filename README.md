@@ -24,6 +24,13 @@ For the first run, sometimes with certain routers, you might encounter an empty 
 **Download** [LMSrAudio IMG file URL here]:
 https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
+>
+>
+**Download new version 06/2025** [Lyrion LT (Real-time kernel]:
+https://drive.google.com/file/d/1A4NiBbrvodBdte03iI4rI5WCjTnXa7vF/
+>
+
+
 ---------------------
 >
 SSH credentials: user 'root,' password 'ros.' You can customize these credentials and have full permissions to modify the source code according to your specific requirements.
