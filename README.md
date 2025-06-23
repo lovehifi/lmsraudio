@@ -56,7 +56,8 @@ On your phone, open a browser and enter the device’s IP address to access the 
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0009.jpg)
 >
-
+When you connect via YouTube Cast or Play, you don’t need to hook up a display.
+>
 >
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0013.png)
 >
