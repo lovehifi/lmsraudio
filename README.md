@@ -17,6 +17,8 @@ In the Material Skin interface, click on the Configuration menu, scroll down to 
 
 >
 For the first run, sometimes with certain routers, you might encounter an empty Configuration menu. Access the Configuration menu at http://192.168.x.x/config. Update to version 4.9.28 to resolve the menu link issues.
+>
+SSH credentials: user 'root,' password 'ros.' You can customize these credentials and have full permissions to modify the source code according to your specific requirements.
 
 
 >
@@ -68,8 +70,6 @@ When you connect via YouTube Cast or Play, you don’t need to hook up a display
 ![Screenshot](https://raw.githubusercontent.com/lovehifi/lmsraudio/main/0015.png)
 >
 ---------------------
->
-SSH credentials: user 'root,' password 'ros.' You can customize these credentials and have full permissions to modify the source code according to your specific requirements.
 
 >
 >
