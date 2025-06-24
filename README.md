@@ -76,6 +76,8 @@ When you connect via YouTube Cast or Play, you don’t need to hook up a display
 
 
 ---------------
+**Version 2023**
+
 ![Screenshot](LMSrAudio-menu.png)
 >
 - LMSBubv9 Server: Play music from your BubbleUPnP Server (NAS...).
