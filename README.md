@@ -39,9 +39,9 @@ Supports Raspberry Pi 4 and Raspberry Pi 5, achieving ultra-low system latency o
 >
 Flash the IMG file to the SD card.
 >
-On your computer, open a browser and go to http://lyriano.local/ to control it.
+On your computer, open a browser and go to http://lyriano.local:9000/ or http://lyriano.local/ to control it.
 >
-On your phone, open a browser and enter the device’s IP address to access the same web interface.
+On your phone, open a browser and enter the device’s web IP address:9000 to access the same web interface.
 >
 >
 >
