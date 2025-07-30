@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
 --------------------
 **Download new version 06/2025** [Lyrion LT (Real-time kernel)]:
-[https://drive.google.com/file/d/1A4NiBbrvodBdte03iI4rI5WCjTnXa7vF/](https://drive.google.com/file/d/1plx3c8c5_Jsa3XhC7m1In3py1nMapyHc/view?usp=sharing)
+https://drive.google.com/file/d/1OkRrr4j2sWX0dpAEj7GBgi4fjhtCxGbw/view?usp=sharing
 
 >
 The Lyrion LT (Real-time kernel) version 06/2025 base on Lyrion 9.1 https://lyrion.org/
