@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1pi3Vy_He6vUO_rfeEYwZQY5uG4Nb1pwS/
 >
 >
 --------------------
-**Download new version 08/2025** [Lyrion LT (Real-time kernel)]:
+**Download new version 08/2025** [Lyrion LT (Real-time kernel) for Pi 4, Pi 5]:
 https://drive.google.com/drive/folders/1Qi8IetveZuPb26yYpYQ0LMHmYODGYwyG/
 
 >
